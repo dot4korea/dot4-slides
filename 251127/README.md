@@ -20,7 +20,7 @@
 |:---:|---|:---:|:---:|
 | **1** | WPF의 현재와 미래 — 다시 바라본 데스크톱 개발 | 박송화  | [📁 보기](TrackB/1/) |
 | **2** | 아직도 직접 구현중? LLM 직접 구현할 시간에 난 깐x치킨 간다 | 박경선  | [📁 보기](TrackB/2/) |
-| **3** | .NET 10과 함께하는 WinForms & MAUI 알아보기 | 고요한(WinForms) · 김진석 MVP(MAUI)  | 준비중 |
+| **3** | .NET 10과 함께하는 WinForms & MAUI 알아보기 | 고요한(WinForms) · 김진석 MVP(MAUI)  |  ❗[📁 보기](TrackB/3/)   |
 | **4** | From Zero to Hero cs 파일 하나로 시작하는 AI 친화적인 초고속 닷넷 앱 개발 | 남정현 MVP  | [📁 보기](TrackB/4/) |
 <div align="center">
 <a href="../README.md">🏠 메인으로 돌아가기</a> 
