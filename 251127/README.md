@@ -10,7 +10,7 @@
 ## Track A
 | 세션 | 제목 | 발표자 | 자료 |
 |:---:|---|:---:|:---:|
-| **1** | .NET 10 시대의 Blazor — 개발자가 알아야 할 변화와 실전 팁 | BlazorTreasure  | 준비중 |
+| **1** | .NET 10 시대의 Blazor — 개발자가 알아야 할 변화와 실전 팁 | BlazorTreasure  | [📁 보기](TrackA/1/) | |
 | **2** | 도메인주도개발을 수행해오면서 들었던 삽질들에 대해서 | 박효철  | 준비중 |
 | **3** | WPF 사용자의 Web Front-end 적응기 Blazor와 Inline SVG, SMIL의 케미스트리 | 김준형 MVP  | [📁 자료 보기](https://github.com/Vagabond-K/ConferenceResources/tree/main/Slides) |) |
 | **4** | .NET으로 손쉽게 만드는 AI 앱 Microsoft Agent Framework 알아보기 | 이종인 MVP  | 준비중 |
